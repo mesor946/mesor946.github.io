@@ -1,0 +1,54 @@
+h1 {
+  text-align:center;
+  padding-top: 100px;
+  font-family: futura-pt-bold,sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  
+}
+
+p {
+  text-align:left;
+  font-family: ltc-bodoni-175,serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 150%;
+
+}
+
+
+div {
+  margin-top: 40px;
+  padding-left: 350px;
+  padding-right: 350px;
+ 
+}
+
+
+.block{
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-bottom: -50px;
+  text-align:justify;
+  font-family: futura-pt, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+
+}
+
+.block2{
+  font-family: futura-pt, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+    text-align:justify;
+
+
+}
+
+.tableauPlaceholder {
+
+  float: left;
+  margin-left: -375px;
+  margin-bottom: 50px;
+}
